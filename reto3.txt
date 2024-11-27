@@ -1,8 +1,21 @@
 int numero = 312;
 
-if ((float)numero/2 == numero/2){
+String traduce = numero.ToString();
+
+if (traduce.EndsWith("0") || traduce.EndsWith("2") || traduce.EndsWith("4") || traduce.EndsWith("6") || traduce.EndsWith("8")){
 	Debug.Log("El numero es par");
 	}
 else{
 	Debug.Log("El numero es impar");
 	}
+
+
+while (numero > 0){
+	numero = numero - 2;
+}
+
+if (numero == 0){
+	Debug.Log("El numero es par");
+} else {
+	Debug.Log("El numero es impar");
+}

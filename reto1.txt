@@ -1,0 +1,11 @@
+// Declaro e inicializo las variables
+int numero 312;
+
+bool par;
+
+if (numero % 2 == 0){
+Debug.Log("El numero es par");
+}
+else {
+Debug.Log("El numero es impar");
+}
