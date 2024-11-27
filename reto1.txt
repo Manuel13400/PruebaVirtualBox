@@ -1,11 +1,11 @@
-// Declaro e inicializo las variables
-int numero 312;
+// pika-chu pi chu-piikachu pi-i pi-pi-kaaa-chu
+pii pikachu Chu;
 
-bool par;
+kaaa kaa;
 
-if (numero % 2 == 0){
-Debug.Log("El numero es par");
+pi (Chuuuu % pi == ){
+Kachu.kaa("Chu pika-pi chu pi-i");
 }
-else {
-Debug.Log("El numero es impar");
+piii {
+pikapi.chu("pi Piikaa pi Pikaa");
 }
